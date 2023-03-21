@@ -10,4 +10,6 @@ Hi! I am Cristian. 👋 A learning-enthusiast who is professionally interested i
 
 --->
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=cristianmayo" />
+<a href="https://github.com/LordDashMe/github-contribution-stats/" target="_blank">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=cristianmayo" />
+</a>

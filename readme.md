@@ -18,7 +18,7 @@ Software Engineering Experience:
 
 
 Current Personal Project(s):
-> [Fullstack-dev Technology](https://fullstackdev-tech.net) (`fdtechdotnet`) --> In-going
+> [Fullstack-dev Technology](https://fullstackdev-tech.net) (`fdtechdotnet`) --> In-Progress
 >  > JAMStack playground containing articles and documentation about my learning journey and experience working with full-stack web application development and delivery with cloud infrastructure
 
 

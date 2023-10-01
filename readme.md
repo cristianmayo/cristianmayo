@@ -4,8 +4,8 @@ Hi! I am Cristian. 👋 A learning enthusiast who is professionally interested i
 
 Software Engineering Experience:
 >- C# Object-Oriented Programming with ASP.NET Core Development (MVC and Web API)
->- DevOps Engineering with Microsoft Azure and Azure DevOps (CI/CD, IaC)
->- Front-end client development with web technology essentials (HTML, CSS, JS) and modern JavaScript frameworks (Angular, React)
+>- DevOps Engineering using Microsoft Azure and Azure DevOps (CI/CD, IaC)
+>- Front-end Development using web technology essentials (HTML, CSS, JS) and modern JavaScript frameworks (Angular, React)
 >- Production Support with feature enhancements and problem/issue mitigations
 
 

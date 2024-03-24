@@ -10,7 +10,6 @@ Software Engineering Experience:
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/cristianmayo) 
-[![Pluralsight Profile](https://img.shields.io/static/v1?color=blue&label=pluralsight&logo=pluralsight&logoColor=white&style=for-the-badge&message=Profile)](https://app.pluralsight.com/profile/xi4nmayo) 
 <!--- 
 [![Patreon URL](https://img.shields.io/static/v1?color=blue&label=patreon&logo=patreon&logoColor=white&style=for-the-badge&message=Support)](https://patreon.com/cristianmayo) 
 [![Pluralsight Profile](https://img.shields.io/static/v1?color=blue&label=pluralsight&logo=pluralsight&logoColor=white&style=for-the-badge&message=Profile)](https://app.pluralsight.com/profile/xi4nmayo) 
